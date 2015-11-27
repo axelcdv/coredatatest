@@ -22,7 +22,7 @@ pod "CoreDataTest"
 
 ## Author
 
-Axel Colin de Verdière, axel.colin@sen.se
+Axel Colin de Verdière
 
 ## License
 
