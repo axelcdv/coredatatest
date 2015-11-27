@@ -1,0 +1,12 @@
+source 'https://github.com/CocoaPods/Specs.git'
+use_frameworks!
+
+target 'CoreDataTest_Example', :exclusive => true do
+  pod "CoreDataTest", :path => "../"
+end
+
+target 'CoreDataTest_Tests', :exclusive => true do
+  pod "CoreDataTest", :path => "../"
+
+  
+end
