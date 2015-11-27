@@ -1,0 +1,14 @@
+PODS:
+  - CoreDataTest (0.1.0)
+
+DEPENDENCIES:
+  - CoreDataTest (from `../`)
+
+EXTERNAL SOURCES:
+  CoreDataTest:
+    :path: ../
+
+SPEC CHECKSUMS:
+  CoreDataTest: 70a8195f06cd0af94470d402e90a67287a227d75
+
+COCOAPODS: 0.39.0

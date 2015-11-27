@@ -1,0 +1,24 @@
+{
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "dbb25bd5-0c3a-4532-8919-a1c35b660dc0" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "dbb25bd5-0c3a-4532-8919-a1c35b660dc0" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "C3D95B0B-91FC-4F14-BD6E-E85AB8C9533E",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "dbb25bd5-0c3a-4532-8919-a1c35b660dc0" : "..\/.."
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "CoreDataTest",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Example\/CoreDataTest.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "svn:\/\/charden.sen.se\/vagrant",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "dbb25bd5-0c3a-4532-8919-a1c35b660dc0"
+    }
+  ]
+}

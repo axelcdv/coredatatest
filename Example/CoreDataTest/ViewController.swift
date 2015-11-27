@@ -7,11 +7,14 @@
 //
 
 import UIKit
+import CoreDataTest
 
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+        let myService = MyService.sharedInstance()
+        myService.showEntities()
         // Do any additional setup after loading the view, typically from a nib.
     }
 

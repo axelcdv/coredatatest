@@ -1,0 +1,25 @@
+{
+  "name": "CoreDataTest",
+  "version": "0.1.0",
+  "summary": "A short description of CoreDataTest.",
+  "description": "",
+  "homepage": "https://github.com/<GITHUB_USERNAME>/CoreDataTest",
+  "license": "MIT",
+  "authors": {
+    "Axel Colin de Verdière": "axel.colin@sen.se"
+  },
+  "source": {
+    "git": "https://github.com/<GITHUB_USERNAME>/CoreDataTest.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "requires_arc": true,
+  "source_files": "Pod/Classes/**/*",
+  "resource_bundles": {
+    "CoreDataTest": [
+      "Pod/Assets/*.png"
+    ]
+  }
+}

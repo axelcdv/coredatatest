@@ -1,0 +1,6 @@
+framework module Pods_CoreDataTest_Example {
+  umbrella header "Pods-CoreDataTest_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

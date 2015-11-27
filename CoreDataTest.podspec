@@ -31,10 +31,10 @@ Pod::Spec.new do |s|
 
   s.source_files = 'Pod/Classes/**/*'
   s.resource_bundles = {
-    'CoreDataTest' => ['Pod/Assets/*.png']
+    'CoreDataTest' => ['Pod/Assets/*.png', 'Pod/Classes/*.xcdatamodeld', 'Pod/Classes/*.xcdatamodeld/*']
   }
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
-  # s.frameworks = 'UIKit', 'MapKit'
+  s.frameworks = 'CoreData'
   # s.dependency 'AFNetworking', '~> 2.3'
 end
